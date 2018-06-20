@@ -1,0 +1,12 @@
+{
+    "name": "alex/test_work",
+    "authors": [
+        {
+            "name": "Aleksandr Cherevko",
+            "email": "aleksandr.cherevko.ua@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^7"
+    }
+}
