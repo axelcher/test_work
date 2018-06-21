@@ -6,6 +6,9 @@
             "email": "aleksandr.cherevko.ua@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-0": {"Task3\\": "task3/"}
+    },
     "require": {
         "phpunit/phpunit": "^7"
     }
